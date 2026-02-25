@@ -1,6 +1,6 @@
 // -- Exception handling with multiple try statements -- //
 
-class Exception_With_Multiple_try_Statements {
+class Multiple_try_Blocks {
     public static void main(String args[]) {
         System.out.println("Handling Exceptions with Multiple try Statements\n");
         
