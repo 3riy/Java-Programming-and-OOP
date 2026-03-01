@@ -1,4 +1,4 @@
-// -- Arrays Helper: HashCode -- //
+// -- Arrays Helper: hashCode() -- //
   // The hash code of an array is generated based on its contents, not its reference.
   // The Arrays.hashCode() method computes a hash code for the array based on its elements.
 
