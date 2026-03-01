@@ -1,6 +1,6 @@
 //-- Auto Boxing and Unboxing --//
 
-class Auto_Boxing_and_Unboxing {
+class Auto_Boxing_and_Auto_Unboxing {
     public static void main(String args[]) {
         int num = 2;
 
