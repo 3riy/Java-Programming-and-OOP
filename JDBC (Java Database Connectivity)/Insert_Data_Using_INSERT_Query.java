@@ -11,6 +11,7 @@ public class Insert_Data_Using_INSERT_Query {
           
             // INSERT query to insert record/data into table
             String query = "INSERT INTO employee VALUES (105, 'Meena', 'IT', 52000)";
+            
             Statement stmt = con.createStatement();
 
             stmt.executeUpdate(query);
