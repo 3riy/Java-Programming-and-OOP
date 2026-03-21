@@ -1,4 +1,4 @@
-// -- Display Table Data/Records using SELECT query -- //
+// -- Display table data/records using SELECT query -- //
 
 import java.sql.Connection;
 import java.sql.DriverManager;
