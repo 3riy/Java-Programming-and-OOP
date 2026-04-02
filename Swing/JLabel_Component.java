@@ -10,6 +10,8 @@ public class JLabel_Component {
     public static void main(String[] args) {
         JFrame frame = new JFrame("JLabel Component");
 
+        // -- JLabel -- //
+
         // JLabel label_name = new JLabel("JLabel") - Creates a JLabel component
         JLabel label = new JLabel("JLabel");
 
