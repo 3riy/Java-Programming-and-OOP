@@ -14,6 +14,8 @@ public class JPanel_Component {
         frame.setSize(400, 300);
         frame.setLayout(new BorderLayout());
 
+        // -- JPanel -- //
+
         // JPanel panel_name = new JPanel() - Creates a JPanel component
         JPanel topPanel = new JPanel(); // Top Panel (Header)
         
