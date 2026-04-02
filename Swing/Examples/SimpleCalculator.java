@@ -1,15 +1,7 @@
 // -- Simple Calculator using JTextField for the display and a JPanel with a 4x4 GridLayout to organize the buttons. -- //
 
-import java.awt.BorderLayout;
-import java.awt.Font;
-import java.awt.GridLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JPanel;
-import javax.swing.JTextField;
+import java.awt.*;
+import javax.swing.*;
 
 public class SimpleCalculator extends JFrame implements ActionListener {
     private JTextField display;
