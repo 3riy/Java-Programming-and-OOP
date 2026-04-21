@@ -10,7 +10,6 @@ public class GridLayout_Class {
         // -- Grid -- //
 
         // f.setLayout(new GridLayout(rows, columns)) - Sets a grid-based layout
-        // This divides the container into equal-sized rectangular cells
         f.setLayout(new GridLayout(2, 2));
 
         // f.add(component_name) - Adds buttons to the grid cells in order
